@@ -11,13 +11,13 @@ redirect_from:
 
 Education
 ======
-* PhD (2016-2020)
+* PhD (2016-2020)  
 Faculty of mathematics and physics, University of Ljubljana
 
-* MSc Phys (2013-2016)
+* MSc Phys (2013-2016)  
 Faculty of mathematics and physics, University of Ljubljana
 
-* BSc Phys (2010-2013)
+* BSc Phys (2010-2013)  
 Faculty of mathematics and physics, University of Ljubljana
 
 Employment History
