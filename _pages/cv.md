@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+The full detailed CV is available [here](https://kkatja.github.io/files/CV.pdf)
+
 Education
 ======
 * PhD (2016-2020)  
