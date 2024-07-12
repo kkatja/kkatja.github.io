@@ -22,42 +22,19 @@ Faculty of mathematics and physics, University of Ljubljana
 
 Employment History
 ======
-* Proleptic assistant professor (since April 2024)
+* Proleptic assistant professor (since April 2024)  
 School of Physics and Astronomy, University of Birmingham
 
-* Postdoctoral research assistant (2022-2024)
+* Postdoctoral research assistant (2022-2024)  
 School of Physics and Astronomy, University of Nottingham
 
-* Postdoctoral research assistant (2020-2022) 
+* Postdoctoral research assistant (2020-2022)  
 Rudolf Peierls Centre for Theoretical Physics, University of Oxford
   
-Skills
+Grants and Awards
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+* Leverhulme Trust Early Career Fellowship  
+    * Project identifier: ECF-2022-324
+    * Funding Organization: [Leverhulme Trust](https://www.leverhulme.ac.uk/)
+    * Duration: 36 months
+    * Starting date: 1/10/2022
