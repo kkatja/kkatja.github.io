@@ -34,7 +34,7 @@ Rudolf Peierls Centre for Theoretical Physics, University of Oxford
 Grants and Awards
 ======
 * Leverhulme Trust Early Career Fellowship  
-    * Project identifier: ECF-2022-324
+    * Project: ECF-2022-324
     * Funding Organization: [Leverhulme Trust](https://www.leverhulme.ac.uk/)
     * Duration: 36 months
     * Starting date: 1/10/2022
