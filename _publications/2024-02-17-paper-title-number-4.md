@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/2024-02-17-paper-title-number-4
 excerpt: 'We introduce a solvable interacting deterministic model that shows diffusive transport.'
 date: 2017-09-14
-venue: 'Physical Review Letters'
+venue: 'Phys. Rev. Lett.'
 paperurl: 'http://academicpages.github.io/files/paper3.pdf'
 citation: 'Your Name, You. (2024). &quot;Paper Title Number 3.&quot; <i>GitHub Journal of Bugs</i>. 1(3).'
 ---
