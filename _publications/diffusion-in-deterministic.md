@@ -5,7 +5,7 @@ permalink: /publication/diffusion-in-deterministic
 excerpt: 'We introduce a solvable interacting deterministic model that shows diffusive transport.'
 date: 2017-09-14
 venue: 'Phys. Rev. Lett.'
-paperurl: 'http://academicpages.github.io/files/paper3.pdf'
+paperurl: 'https://arxiv.org/abs/1705.04636'
 citation: 'M. Medenjak, K. Klobas, T. Prosen, <a href="https://doi.org/10.1103/PhysRevLett.119.110603">Phys. Rev. Lett. <b>119</b>, 110603</a> (2017).'
 ---
 
