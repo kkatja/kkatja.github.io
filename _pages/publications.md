@@ -18,3 +18,9 @@ Refereed journal papers
 
 
 * M. Medenjak, K. Klobas, T. Prosen, *Diffusion in deterministic interacting lattice systems*, [Phys. Rev. Lett. **119**, 110603](https://doi.org/10.1103/PhysRevLett.119.110603) (2017), [arXiv:1705.04636](https://arxiv.org/abs/1705.04636).
+
+{% include base_path %}
+
+{% for post in site.publications reversed %}
+  {% include archive-single.html %}
+{% endfor %}
