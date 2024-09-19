@@ -8,7 +8,7 @@ author_profile: true
 This was last updated in September 2024. See the most up-to-date list on the [arXiv](https://arxiv.org/a/klobas_k_1.html) and on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.
 
 Preprints
-======
+---------
 * K. Klobas, *Non-equilibrium dynamics of symmetry-resolved
 entanglement and entanglement asymmetry: Exact asymptotics in Rule 54*,
 [arXiv:2407.21793](https://arxiv.org/abs/2407.21793) (2024).
@@ -28,7 +28,7 @@ under random unitary dynamics*,
 
 
 Refereed journal papers
-======
+-----------------------
 * K. Klobas, C. De Fazio, J. P. Garrahan, *Exact pretransition effects
 in kinetically constrained circuits: Dynamical fluctuations in the
 Floquet-East model*, [Phys. Rev. E **110**,
