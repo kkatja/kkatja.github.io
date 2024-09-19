@@ -9,21 +9,21 @@ This was last updated in September 2024. See the most up-to-date list on the [ar
 
 Preprints
 ======
-|   [4] K. Klobas, *Non-equilibrium dynamics of symmetry-resolved
+* K. Klobas, *Non-equilibrium dynamics of symmetry-resolved
 entanglement and entanglement asymmetry: Exact asymptotics in Rule 54*,
-[arXiv:2407.21793](https://arxiv.org/abs/2407.21793).
+[arXiv:2407.21793](https://arxiv.org/abs/2407.21793) (2024).
 
-|   [3] B. Bertini, K. Klobas, P. Kos, D. Malz, *Quantum and classical
+* B. Bertini, K. Klobas, P. Kos, D. Malz, *Quantum and classical
 dynamics with random permutation circuits*,
-[arXiv:2407.11960](https://arxiv.org/abs/2407.11960).
+[arXiv:2407.11960](https://arxiv.org/abs/2407.11960) (2024).
 
-|   [2] C. De Fazio, J. P. Garrahan, K. Klobas, *Exact results on the
+* C. De Fazio, J. P. Garrahan, K. Klobas, *Exact results on the
 dynamics of the stochastic Floquet-East model*,
-[arXiv:2406.17464](https://arxiv.org/abs/2406.17464).
+[arXiv:2406.17464](https://arxiv.org/abs/2406.17464) (2024).
 
-|   [1] K. Klobas, C. Rylands, B. Bertini, *Translation symmetry restoration
+* K. Klobas, C. Rylands, B. Bertini, *Translation symmetry restoration
 under random unitary dynamics*,
-[arXiv:2406.04296](https://arxiv.org/abs/2406.04296).
+[arXiv:2406.04296](https://arxiv.org/abs/2406.04296) (2024).
 
 
 
